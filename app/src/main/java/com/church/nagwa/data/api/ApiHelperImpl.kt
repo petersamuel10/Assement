@@ -1,9 +1,9 @@
-package com.church.ministry.data.api
+package com.church.nagwa.data.api
 
 import android.util.Log
-import com.church.ministry.base.App
-import com.church.ministry.data.model.ItemInfo
-import com.church.ministry.util.NetworkHelper
+import com.church.nagwa.base.App
+import com.church.nagwa.data.model.ItemInfo
+import com.church.nagwa.util.NetworkHelper
 import com.google.gson.Gson
 import com.google.gson.reflect.TypeToken
 import javax.inject.Inject

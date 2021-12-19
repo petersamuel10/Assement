@@ -1,4 +1,4 @@
-package com.church.ministry.ui.intent
+package com.church.nagwa.ui.intent
 
 sealed
 class MainIntent {

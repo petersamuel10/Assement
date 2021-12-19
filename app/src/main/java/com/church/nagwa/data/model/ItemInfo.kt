@@ -1,9 +1,9 @@
-package com.church.ministry.data.model
+package com.church.nagwa.data.model
 
 data class ItemInfo(
     val id: Int = 0,
     val type: String = "",
     val url: String = "",
     val name: String = "",
-    var isLogged: Boolean = false
+    var isDown: Boolean = false
 )

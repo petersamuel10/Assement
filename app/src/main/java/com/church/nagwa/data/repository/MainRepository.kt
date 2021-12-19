@@ -1,6 +1,6 @@
-package com.church.ministry.data.repository
+package com.church.nagwa.data.repository
 
-import com.church.ministry.data.api.ApiHelper
+import com.church.nagwa.data.api.ApiHelper
 import javax.inject.Inject
 
 class MainRepository @Inject constructor(private val apiHelper: ApiHelper) {

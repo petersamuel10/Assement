@@ -1,4 +1,4 @@
-package com.church.ministry
+package com.church.nagwa
 
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.ExperimentalCoroutinesApi

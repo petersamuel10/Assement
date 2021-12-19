@@ -1,4 +1,4 @@
-package com.church.ministry.base
+package com.church.nagwa.base
 
 import androidx.appcompat.app.AppCompatActivity
 

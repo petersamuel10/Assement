@@ -1,11 +1,11 @@
-package com.church.ministry
+package com.church.nagwa
 
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
-import com.church.ministry.data.repository.MainRepository
-import com.church.ministry.ui.intent.MainIntent
-import com.church.ministry.ui.viewState.MainViewState
-import com.church.ministry.util.NetworkHelper
+import com.church.nagwa.data.repository.MainRepository
+import com.church.nagwa.ui.intent.MainIntent
+import com.church.nagwa.ui.viewState.MainViewState
+import com.church.nagwa.util.NetworkHelper
 import dagger.hilt.android.lifecycle.HiltViewModel
 import kotlinx.coroutines.ExperimentalCoroutinesApi
 import kotlinx.coroutines.channels.Channel

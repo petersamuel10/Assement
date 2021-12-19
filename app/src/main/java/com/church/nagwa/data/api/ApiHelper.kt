@@ -1,6 +1,6 @@
-package com.church.ministry.data.api
+package com.church.nagwa.data.api
 
-import com.church.ministry.data.model.*
+import com.church.nagwa.data.model.*
 
 interface ApiHelper {
 

@@ -1,9 +1,9 @@
-package com.church.ministry.di
+package com.church.nagwa.di
 
 import android.content.Context
-import com.church.ministry.base.App
-import com.church.ministry.data.api.ApiHelper
-import com.church.ministry.data.api.ApiHelperImpl
+import com.church.nagwa.base.App
+import com.church.nagwa.data.api.ApiHelper
+import com.church.nagwa.data.api.ApiHelperImpl
 import dagger.Module
 import dagger.Provides
 import dagger.hilt.InstallIn

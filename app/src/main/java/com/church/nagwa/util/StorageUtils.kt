@@ -1,4 +1,4 @@
-package com.church.ministry.util
+package com.church.nagwa.util
 
 import android.content.Context
 import android.os.Environment

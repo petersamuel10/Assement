@@ -1,10 +1,9 @@
-package com.church.ministry
+package com.church.nagwa
 
 import androidx.lifecycle.Observer
-import com.church.ministry.data.api.ApiHelper
-import com.church.ministry.data.model.Book
-import com.church.ministry.ui.viewState.MainViewState
-import com.church.ministry.util.NetworkHelper
+import com.church.nagwa.data.api.ApiHelper
+import com.church.nagwa.data.model.Book
+import com.church.nagwa.ui.viewState.MainViewState
 import kotlinx.coroutines.ExperimentalCoroutinesApi
 import org.junit.After
 import org.junit.Before
